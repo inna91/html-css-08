@@ -414,6 +414,10 @@ a {
     padding: 74px 0 72px 0;
   }
 
+  .partners-list-item {
+    margin-bottom: 0px;
+  }
+
   .other-partners {
     width: 197px;
     height: 44px;
